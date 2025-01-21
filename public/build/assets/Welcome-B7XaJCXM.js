@@ -1,0 +1,1 @@
+import{j as e,L as r}from"./app-CLbvdodj.js";const a=({config:l})=>e.jsxs(e.Fragment,{children:[e.jsx(r,{title:"elvxk"}),e.jsx("h1",{className:"font-bold text-2xl",children:"Hello Jagoan"}),e.jsx("div",{className:"flex flex-col justify-center items-center w-full min-h-screen",children:l.map((s,t)=>e.jsx("h1",{children:s.value},t))})]});export{a as default};
