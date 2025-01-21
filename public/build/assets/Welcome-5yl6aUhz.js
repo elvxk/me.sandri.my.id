@@ -1,0 +1,1 @@
+import{j as e}from"./app-BQQ-aqEI.js";const n=({config:l})=>e.jsxs("div",{className:"flex flex-col justify-center items-center w-full min-h-screen",children:[l.map((s,t)=>e.jsx("h1",{children:s.value},t)),e.jsx("h1",{className:"font-bold text-2xl",children:"Hello Jagoan"})]});export{n as default};
