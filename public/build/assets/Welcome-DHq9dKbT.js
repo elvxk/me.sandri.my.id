@@ -1,0 +1,1 @@
+import{j as e,L as r}from"./app-CQs0Ef5B.js";const a=({config:l})=>e.jsxs(e.Fragment,{children:[e.jsx(r,{title:"elvxk"}),e.jsxs("div",{className:"flex flex-col justify-center items-center w-full min-h-screen",children:[e.jsx("h1",{className:"font-bold text-2xl",children:"Hello Jagoan"}),l.map((s,t)=>e.jsx("h1",{children:s.value},t))]})]});export{a as default};
